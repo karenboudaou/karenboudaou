@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left"> I’m Karen, a passionate and results-driven McGill graduate student specializing in data analytics. I thrive on making predictions, building classifications, and uncovering insights from data to drive impactful decision-making. <br><br>With a keen interest in text analytics and social media analytics, I enjoy working on projects that can make a difference in our fast-paced world.</p>
+<p align="left"> I’m Karen, a passionate and results-driven McGill graduate student specializing in data analytics. With a keen interest in text analytics and social media analytics, I enjoy working on projects that can make a difference in our fast-paced world.</p>
 
 ###
 
