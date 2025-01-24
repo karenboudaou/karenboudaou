@@ -42,6 +42,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dataspell/dataspell-original.svg" height="40" alt="DataSpell logo" />
+  <img width="12" />
+  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" height="40" alt="Tableau logo" />
+  <img width="12" />
+  <img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" height="40" alt="Power BI logo" />
+  <img width="12" />
+
+
 </div>
 
 ###
