@@ -1,8 +1,8 @@
-<h1 align="left">Hi there 👋</h1>
+<h1 align="left">Hi there 👋 Welcome to my world! </h1>
 
 ###
 
-<p align="left"> I’m Karen, a passionate and results-driven McGill graduate student specializing in data analytics. With a keen interest in text analytics and social media analytics, I enjoy working on projects that can make a difference in our fast-paced world.</p>
+<p align="left"> I’m Karen, a passionate and results-driven McGill graduate student specializing in data analytics. With a keen interest in text and social media analytics, I enjoy working on projects that can make a difference in our fast-paced world.</p>
 
 ###
 
@@ -27,9 +27,11 @@
 ###
 
 <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+  <img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Amazon_Web_Services_Logo.svg" height="40" alt="AWS logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
   <img width="12" />
@@ -38,6 +40,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dataspell/dataspell-original.svg" height="40" alt="DataSpell logo" />
 </div>
 
 ###
@@ -57,3 +61,4 @@
 <p align="left">🍜 I love to cook and explore new recipes from around the world.<br>🎶 Dancing is my favorite way to unwind.<br>🎮 Big fan of board games and game nights!</p>
 
 ###
+
