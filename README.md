@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2020<br>📚 Currently pursuing a Master of Management in Analytics at McGill University<br>🔬 Passionate about team leadership and collaborating with people from diverse backgrounds<br>🔍 Always eager to explore new technologies and enhance my skills<br>🎯 Favorite project: Predicting the next President of the U.S by scraping online forums and analyzing trends on social media</p>
+<p align="left">✨ Creating bugs since 2022<br>📚 Currently pursuing a Master of Management in Analytics at McGill University<br>🔬 Passionate about team leadership and collaborating with people from diverse backgrounds<br>🔍 Always eager to explore new technologies and enhance my skills<br>🎯 Favorite project: Predicting the next President of the U.S by scraping online forums and analyzing trends on social media</p>
 
 ###
 
